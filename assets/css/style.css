@@ -20,3 +20,15 @@ ul {
 ul li {
   margin-bottom: 10px;
 }
+.profile-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.profile-container img {
+  width: 200px;
+  height: auto;
+  border-radius: 50%;
+  margin-left: 20px;
+}
+
