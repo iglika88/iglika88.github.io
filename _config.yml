@@ -1,13 +1,13 @@
-title: Iglika Nikolova-Stoupak
-description: Welcome to my personal page.
-url: "https://iglika88.github.io" # the base hostname & protocol for your site
+# title: Iglika Nikolova-Stoupak
+# description: Welcome to my personal page.
+# url: "https://iglika88.github.io" # the base hostname & protocol for your site
 
 theme: minima
 
 exclude:
   - README.md
 
-markdown: kramdown
+# markdown: kramdown
 
 # author: Iglika Nikolova-Stoupak
 
