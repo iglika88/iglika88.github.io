@@ -10,3 +10,8 @@ social_links:
   linkedin: iglika-nikolova-stoupak-71290029/
   youtube: monoglossia
 
+# Custom CSS
+include:
+  - assets/css/style.css
+
+
