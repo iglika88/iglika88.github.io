@@ -1,1 +1,12 @@
+title: My GitHub Page
+description: This is my personal GitHub page.
+# baseurl: "" # the subpath of your site, e.g., /blog
+url: "https://iglika88.github.io" # the base hostname & protocol for your site
+
 theme: minima
+
+exclude:
+  - README.md
+
+# Build settings
+markdown: kramdown
