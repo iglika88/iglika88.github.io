@@ -9,11 +9,11 @@ exclude:
 
 markdown: kramdown
 
-author: Iglika Nikolova-Stoupak
+# author: Iglika Nikolova-Stoupak
 
 # Social links (optional)
-social_links:
-  github: iglika88
-  linkedin: iglika-nikolova-stoupak-71290029/
-  youtube: monoglossia
+#social_links:
+#  github: iglika88
+#  linkedin: iglika-nikolova-stoupak-71290029/
+#  youtube: monoglossia
 
