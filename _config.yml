@@ -1,5 +1,5 @@
-title: My GitHub Page
-description: This is my personal GitHub page.
+title: Iglika Nikolova-Stoupak
+description: Welcome to my personal page.
 # baseurl: "" # the subpath of your site, e.g., /blog
 url: "https://iglika88.github.io" # the base hostname & protocol for your site
 
@@ -8,5 +8,12 @@ theme: minima
 exclude:
   - README.md
 
-# Build settings
 markdown: kramdown
+
+author: Iglika Nikolova-Stoupak
+
+# Social links (optional)
+social_links:
+  github: iglika88
+  linkedin: iglika-nikolova-stoupak-71290029/
+  youtube: monoglossia
