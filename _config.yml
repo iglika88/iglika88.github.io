@@ -4,8 +4,8 @@
 
 theme: minima
 
-exclude:
-  - README.md
+# exclude:
+#  - README.md
 
 # markdown: kramdown
 
