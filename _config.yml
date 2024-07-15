@@ -1,18 +1,4 @@
 title: Iglika Nikolova-Stoupak
 description: Welcome to my personal page.
-url: "https://iglika88.github.io" # the base hostname & protocol for your site
-
 theme: minima
 
-exclude:
-  - README.md
-
-markdown: kramdown
-
-author: Iglika Nikolova-Stoupak
-
-# Social links (optional)
-social_links:
-  github: iglika88
-  linkedin: iglika-nikolova-stoupak-71290029/
-  youtube: monoglossia
