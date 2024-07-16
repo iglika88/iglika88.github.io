@@ -34,11 +34,11 @@ ul li {
 }
 .profile-image {
   width: auto;
-  height: 200%; /* Scale the height to zoom in */
+  height: 150%; /* Scale the height to zoom in */
   position: absolute;
-  top: 50%;
+  top: 35%; /* Move the image up to focus higher */
   left: 50%;
-  transform: translate(-50%, -50%) scale(2); /* Scale and center the image */
+  transform: translate(-50%, -50%) scale(1.5); /* Scale and center the image */
 }
 .social-links {
   display: flex;
