@@ -31,4 +31,11 @@ ul li {
   border-radius: 50%;
   margin-left: 20px;
 }
-
+.social-links {
+  display: flex;
+  gap: 15px;
+}
+.social-links img {
+  width: 32px;
+  height: 32px;
+}
